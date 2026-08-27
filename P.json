@@ -14,6 +14,69 @@
             "name": "荐片[js]",
             "type": 3,
             "api": "./js/荐片.js"
+        },
+        {
+            "key": "py_dsystv",
+            "name": "袋鼠影视[py]",
+            "type": 3,
+            "api": "./py/dsystv.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://dsystv.com"
+            }
+        },
+        {
+            "key": "py_金牌影院",
+            "name": "金牌影院[py]",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./py/金牌.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "py_文才",
+            "name": "文才影视[py]",
+            "type": 3,
+            "api": "./py/文才影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+        {
+            "key": "py_guazi",
+            "name": "瓜子影视[py]",
+            "type": 3,
+            "api": "./py/guazi.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {}
+        },
+        {
+            "key": "py_jieyingshi",
+            "name": "界影视[py]",
+            "type": 3,
+            "api": "./py/py_jieyingshi.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "全网看",
+            "name": "全网看",
+            "type": 3,
+            "jar": "./jar/xs.jar",
+            "api": "csp_XBPQ",
+            "ext": "./js/s/全网看.json"
         }
     ]
 }
