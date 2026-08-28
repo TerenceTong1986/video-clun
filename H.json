@@ -1,4 +1,6 @@
  {
+ 	    "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
+
  "sites": [
   {
    "key": "精品资源站",
@@ -1047,6 +1049,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "proxy"
-  }
+  },
+  
  ]
 }
