@@ -9,56 +9,80 @@
             "name": "飞快影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/飞快.json"
+            "ext": "./js/s/飞快.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "人人影视",
             "name": "人人影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/人人.json"
+            "ext": "./js/s/人人.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "农民影视",
             "name": "农民影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/农民.json"
+            "ext": "./js/s/农民.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "熊猫影视",
             "name": "熊猫影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/熊猫.json"
+            "ext": "./js/s/熊猫.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "秀儿影院",
             "name": "秀儿影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/秀儿.json"
+            "ext": "./js/s/秀儿.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "毒舌影视",
             "name": "毒舌影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/毒舌.json"
+            "ext": "./js/s/毒舌.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "星辰影院",
             "name": "星辰影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/星辰.json"
+            "ext": "./js/s/星辰.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "全网看",
             "name": "全网看",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/全网看.json"
+            "ext": "./js/s/全网看.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "free影视",
@@ -66,70 +90,100 @@
             "type": 3,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_XBPQ",
-            "ext": "./js/s/free.json"
+            "ext": "./js/s/free.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "喝茶影视",
             "name": "喝茶影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/喝茶.json"
+            "ext": "./js/s/喝茶.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "策弛影视",
             "name": "策弛影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/策弛.json"
+            "ext": "./js/s/策弛.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "茶杯狐影视",
             "name": "茶杯狐影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/茶杯狐.json"
+            "ext": "./js/s/茶杯狐.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "瓜籽影院",
             "name": "瓜籽影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/瓜籽.json"
+            "ext": "./js/s/瓜籽.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "来看点播",
             "name": "来看点播",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/来看.json"
+            "ext": "./js/s/来看.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "布卡影视",
             "name": "布卡影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/布卡.json"
+            "ext": "./js/s/布卡.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "一帆影视",
             "name": "一帆影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/一帆.json"
+            "ext": "./js/s/一帆.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "欧乐影视",
             "name": "欧乐影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/欧乐.json"
+            "ext": "./js/s/欧乐.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "奇迹",
             "name": "奇迹影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/奇迹.json"
+            "ext": "./js/s/奇迹.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
 
         {
@@ -140,7 +194,10 @@
             "key": "py_YYMP3",
             "name": "YYMP3[py]",
             "type": 3,
-            "api": "./py/yymp3.py"
+            "api": "./py/yymp3.py",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "js_KTV歌厅",
@@ -151,7 +208,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/drpy2.js"
+            "ext": "./js/drpy2.js",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "直播转点播",
@@ -170,7 +230,10 @@
             "name": "MXDM｜动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./js/s/mx.json"
+            "ext": "./js/s/mx.json",
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "MiFun",
